@@ -1,7 +1,7 @@
 # JavaScript-Mini-Project
 An interactive Simon Says memory game developed using Vanilla JavaScript, showcasing DOM manipulation, event handling, arrays, and game state management.
 
-How to Play
+=> How to Play
 
 1. Press any key on the keyboard to start the game.
 
